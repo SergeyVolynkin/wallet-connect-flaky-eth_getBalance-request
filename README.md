@@ -1,6 +1,6 @@
 # wallet-connect-flaky-eth_getBalance-request
 
-Code example to reproduce issue described in https://github.com/orgs/WalletConnect/discussions/3868
+Code example to reproduce the issue described in https://github.com/orgs/WalletConnect/discussions/3868
 
 To run:
 
